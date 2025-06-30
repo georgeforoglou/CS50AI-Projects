@@ -1,1 +1,2 @@
-# georgeforoglou
+# CS50AI Projects repo
+
